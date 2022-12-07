@@ -26,7 +26,7 @@ int main(){
             }
         }
         textFile.close();
-        cout << "Largest elf: " << max << endl;
+        cout << max << endl;
     }
     
     return 0;
